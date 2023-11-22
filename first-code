@@ -4,3 +4,5 @@ using webhooks in github
 1234567
 someone has to do it
 This is so late but happy that I get started
+ls -l /var/log/jenkins/
+ls -l /etc/systemd/system/jenkins.service
